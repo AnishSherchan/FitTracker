@@ -5,7 +5,7 @@ import PageContainer from "../PageContainer";
 const index = () => {
   return (
     <div>
-      <h1 className="text-[34px] text-center mt-[83px] tracking-wide text-primary font-semibold">
+      <h1 className="text-[34px] text-center mt-[30px] tracking-wide text-primary font-semibold">
         FitTrack.
       </h1>
       <div
